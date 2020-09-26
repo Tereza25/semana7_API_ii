@@ -1,0 +1,53 @@
+[
+    {
+        "Nome": "A fantática fábrica de chocolate",
+        "Gênero": "Aventura",
+        "Direção": "Tim Burton"
+    },
+    {
+        "Nome": "A vida é bela ",
+        "Gênero": "Drama",
+        "Direção": "Roberto Benigni"
+    },
+    {
+        "Nome": " Curtindo a vida adoidado",
+        "Gênero": "Comédia",
+        "Direção": "John Hughes"
+    },
+    {
+        "Nome": "Comer, rezar e amar",
+        "Gênero": "Romance",
+        "Direção": "Ryan Murphy"
+    },
+    {
+        "Nome": "Entrevista com o vampiro",
+        "Gênero": "Terror, Romance",
+        "Direção": "Neil Jordan"
+    },
+    {
+        "Nome": "Clube da luta",
+        "Gênero": "Suspense",
+        "Direção": "David Fincher"
+    },
+    {
+        "Nome": "O diabo veste prada",
+        "Gênero": "Comédia",
+        "Direção": "David Frankel"
+    },
+    {
+        "Nome": "Carol",
+        "Gênero": "Drama, Romance",
+        "Direção": "Todd Haynes"
+    },
+    {
+        "Nome": "Bacurau",
+        "Gênero": "Faroeste",
+        "Direção": "Kleber Mendonça Filho" 
+    },
+    {
+        "Nome": "Tatuagem",
+        "Gênero": "Drama",
+        "Direção": "Hilton Lacerda"
+    }
+
+]

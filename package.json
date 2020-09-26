@@ -1,0 +1,25 @@
+{
+  "name": "semana7_API_ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tereza25/semana7_API_ii.git"
+  },
+  "keywords": [],
+  "author": "Tereza Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tereza25/semana7_API_ii/issues"
+  },
+  "homepage": "https://github.com/Tereza25/semana7_API_ii#readme"
+}

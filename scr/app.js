@@ -7,7 +7,7 @@ const empresas = require('./require/empresasTecRoute');
 app.use((req, res, next) => {
     console.log('Nova requisicao realizada');
 
-    next();
+    next()
 });
 
 app.use('/', index);
